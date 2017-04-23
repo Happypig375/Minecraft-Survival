@@ -1,1 +1,87 @@
-[00:51:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4812ms behind, skipping 96 tick(s)
+[15:14:29] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[15:14:29] [Server thread/INFO]: Loading properties
+[15:14:29] [Server thread/INFO]: Default game type: SURVIVAL
+[15:14:29] [Server thread/INFO]: Generating keypair
+[15:14:30] [Server thread/INFO]: Starting Minecraft server on *:375
+[15:14:30] [Server thread/INFO]: Using default channel type
+[15:14:34] [Server thread/INFO]: Preparing level "Survivalv2"
+[15:14:34] [Server thread/INFO]: Preparing start region for level 0
+[15:14:36] [Server thread/INFO]: Preparing spawn area: 0%
+[15:14:37] [Server thread/INFO]: Preparing spawn area: 69%
+[15:14:37] [Server thread/INFO]: Done (2.718s)! For help, type "help" or "?"
+[15:33:36] [User Authenticator #1/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
+[15:33:37] [Server thread/INFO]: KooDog[/221.124.82.235:55644] logged in with entity id 11 at (-15270.614530342364, 71.0, -463.93228087341487)
+[15:33:37] [Server thread/INFO]: KooDog joined the game
+[15:33:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4974ms behind, skipping 99 tick(s)
+[15:34:23] [User Authenticator #2/INFO]: UUID of player Happypig375 is 1b5d49e1-8ea0-4d62-9e34-765f246c1c80
+[15:34:23] [Server thread/INFO]: Happypig375[/192.168.1.50:55739] logged in with entity id 706 at (-1917.5, 95.0, -66.5)
+[15:34:23] [Server thread/INFO]: Happypig375 joined the game
+[15:34:26] [Server thread/WARN]: Happypig375 moved too quickly! 0.0,-10.806526110008988,0.0
+[15:34:29] [Server thread/WARN]: Happypig375 was kicked for floating too long!
+[15:34:29] [Server thread/INFO]: Happypig375 lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:34:29] [Server thread/INFO]: Happypig375 left the game
+[15:34:29] [Server thread/WARN]: handleDisconnection() called twice
+[15:34:34] [User Authenticator #3/INFO]: UUID of player Happypig375 is 1b5d49e1-8ea0-4d62-9e34-765f246c1c80
+[15:34:34] [Server thread/INFO]: Happypig375[/192.168.1.50:55749] logged in with entity id 1621 at (-1917.5, 85.33293275542411, -66.5)
+[15:34:34] [Server thread/INFO]: Happypig375 joined the game
+[15:34:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3049ms behind, skipping 60 tick(s)
+[15:34:56] [Server thread/WARN]: KooDog moved too quickly! 13438.696997516949,30.0,480.7265634446376
+[15:34:59] [Server thread/WARN]: Happypig375 moved too quickly! -161.18980276547623,-1.0,-275.38904154060833
+[15:35:36] [Server thread/WARN]: Happypig375 moved too quickly! 168.2324684300409,15.0,608.1556395422756
+[15:37:28] [Server thread/WARN]: KooDog moved too quickly! -13438.510414200835,-30.0,-481.36889132113146
+[15:38:57] [Server thread/WARN]: Happypig375 moved too quickly! -169.00099936833254,-15.0,-608.4898815175189
+[15:39:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2010ms behind, skipping 40 tick(s)
+[15:39:15] [Server thread/WARN]: KooDog moved too quickly! -13437.445560002256,-30.0,-481.1310209353631
+[15:40:50] [Server thread/WARN]: KooDog moved too quickly! 13437.637361679834,30.0,481.27749848072654
+[15:49:38] [Server thread/WARN]: Happypig375 moved too quickly! 0.2497732056323443,-0.7800000607967377,-10.526596194512399
+[15:49:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2176ms behind, skipping 43 tick(s)
+[15:49:38] [Server thread/WARN]: KooDog moved too quickly! -13438.524173481477,-30.0,-481.31170954486265
+[15:52:13] [Server thread/WARN]: Happypig375 moved too quickly! 169.71962368057495,-18.0,-114.2325867982358
+[15:54:49] [Server thread/WARN]: Happypig375 moved too quickly! 132.24406980942476,-14.0,-556.0440698213457
+[16:00:20] [Server thread/WARN]: Happypig375 moved too quickly! 148.7857099422672,-7.0,-1039.141480589177
+[16:02:13] [Server thread/WARN]: Happypig375 moved too quickly! 188.2611049060738,-9.0,-1689.9619849952414
+[16:03:15] [User Authenticator #4/INFO]: UUID of player BlowBearBear is e89c5b59-a2f9-4f97-8578-e0e916301509
+[16:03:15] [Server thread/INFO]: BlowBearBear[/58.176.244.233:50617] logged in with entity id 48026 at (217.30000001192093, 53.0, 739.6999999880791)
+[16:03:15] [Server thread/INFO]: BlowBearBear joined the game
+[16:07:26] [Server thread/WARN]: BlowBearBear moved too quickly! 0.018627634446602315,-0.7016000592708593,10.139526980150407
+[16:07:26] [Server thread/WARN]: Happypig375 moved too quickly! -404.83940481822356,-18.0,489.0394048063026
+[16:07:59] [Server thread/INFO]: KooDog lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:07:59] [Server thread/INFO]: KooDog left the game
+[16:08:24] [User Authenticator #5/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
+[16:08:24] [Server thread/INFO]: KooDog[/221.124.82.235:49464] logged in with entity id 58322 at (-15298.405386047383, 72.0, -448.9223858793773)
+[16:08:24] [Server thread/INFO]: KooDog joined the game
+[16:08:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2351ms behind, skipping 47 tick(s)
+[16:08:41] [Server thread/WARN]: BlowBearBear moved too quickly! 168.014319105163,15.0,608.2512189325241
+[16:10:43] [Server thread/INFO]: [KooDog: Game rule keepInventory has been updated to false]
+[16:11:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2048ms behind, skipping 40 tick(s)
+[16:11:24] [Server thread/WARN]: BlowBearBear moved too quickly! -10.345999942493222,0.0,-0.17063691130580594
+[16:11:24] [Server thread/WARN]: KooDog moved too quickly! 8.574567216217474,1.252203340253729,-5.559963677863607
+[16:12:14] [Server thread/WARN]: Happypig375 moved too quickly! 160.53677673352917,1.0,274.73677672160824
+[16:15:53] [Server thread/WARN]: BlowBearBear moved too quickly! -13439.399999976158,-30.0,-481.0988117638652
+[16:21:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7727ms behind, skipping 154 tick(s)
+[16:22:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2450ms behind, skipping 49 tick(s)
+[16:22:05] [Server thread/WARN]: BlowBearBear moved too quickly! -6.089646916425409,1.7531999805212024,8.061107614362243
+[16:27:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3597ms behind, skipping 71 tick(s)
+[16:27:11] [Server thread/WARN]: BlowBearBear moved too quickly! -2.5098902146819455,0.33319999363422426,-9.808073702832303
+[16:28:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5196ms behind, skipping 103 tick(s)
+[16:29:54] [Server thread/WARN]: Happypig375 moved too quickly! -2130.883874936702,-21.0,261.03341434535224
+[16:32:45] [Server thread/WARN]: Happypig375 moved too quickly! -2812.399999976158,-26.0,270.19999998807907
+[16:33:09] [Server thread/WARN]: Happypig375 moved too quickly! 2811.543443333271,26.0,-270.254061867454
+[16:34:05] [Server thread/WARN]: KooDog moved too quickly! -13438.804356578712,-30.0,-480.9116700206903
+[16:39:45] [Server thread/WARN]: Happypig375 moved too quickly! -3851.399999976158,-23.0,215.19999998807907
+[16:44:53] [Server thread/INFO]: BlowBearBear lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:44:53] [Server thread/INFO]: BlowBearBear left the game
+[16:45:08] [User Authenticator #6/INFO]: UUID of player BlowBearBear is e89c5b59-a2f9-4f97-8578-e0e916301509
+[16:45:08] [Server thread/INFO]: BlowBearBear[/58.176.244.233:50657] logged in with entity id 112672 at (-1795.6572736120131, 95.0, 40.30000001192093)
+[16:45:08] [Server thread/INFO]: BlowBearBear joined the game
+[16:48:45] [Server thread/WARN]: Happypig375 moved too quickly! -6214.0,-6.0,375.81053439311006
+[16:52:24] [Server thread/INFO]: BlowBearBear lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:52:24] [Server thread/INFO]: BlowBearBear left the game
+[16:54:26] [Server thread/INFO]: <KooDog> -1667/95/40
+[16:56:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2514ms behind, skipping 50 tick(s)
+[16:56:35] [Server thread/WARN]: KooDog moved too quickly! -13438.038105704549,-30.0,-481.1043401778937
+[16:59:54] [User Authenticator #7/INFO]: UUID of player BlowBearBear is e89c5b59-a2f9-4f97-8578-e0e916301509
+[16:59:54] [Server thread/INFO]: BlowBearBear[/58.176.244.233:50797] logged in with entity id 124796 at (-1919.300000011921, 95.0, -42.259210639664204)
+[16:59:54] [Server thread/INFO]: BlowBearBear joined the game
+[17:02:24] [Server thread/INFO]: BlowBearBear lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:02:24] [Server thread/INFO]: BlowBearBear left the game
