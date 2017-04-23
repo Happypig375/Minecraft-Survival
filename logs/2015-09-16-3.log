@@ -1,0 +1,28 @@
+[20:55:02] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[20:55:02] [Server thread/INFO]: Loading properties
+[20:55:02] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_60]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_60]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_60]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_60]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_60]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_60]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_60]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_60]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_60]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_60]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_60]
+	at ko$2.run(SourceFile:81) [minecraft_server.1.8.8.exe:?]
+[20:55:02] [Server thread/INFO]: Default game type: SURVIVAL
+[20:55:02] [Server thread/INFO]: Generating keypair
+[20:55:02] [Server thread/INFO]: Starting Minecraft server on *:375
+[20:55:02] [Server thread/INFO]: Using default channel type
+[20:55:02] [Server thread/INFO]: Preparing level "Survival"
+[20:55:02] [Server thread/INFO]: Preparing start region for level 0
+[20:55:03] [Server thread/INFO]: Preparing spawn area: 86%
+[20:55:03] [Server thread/INFO]: Done (1.286s)! For help, type "help" or "?"
+[20:55:03] [Server thread/INFO]: Starting GS4 status listener
+[20:55:03] [Query Listener #1/INFO]: Query running on 0.0.0.0:375
+[20:55:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@53139876[id=<null>,name=Happypig375,properties={},legacy=false] (/192.168.1.108:64205) lost connection: Disconnected
+[20:55:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f9f6dbf[id=<null>,name=Happypig375,properties={},legacy=false] (/192.168.1.108:64208) lost connection: Disconnected

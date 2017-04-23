@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "67b25814-164b-482c-a76b-77b3cda1f6fa",
+    "name": "KooDog",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e89c5b59-a2f9-4f97-8578-e0e916301509",
+    "name": "FREAKuOUT",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1b5d49e1-8ea0-4d62-9e34-765f246c1c80",
+    "name": "Happypig375",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  }
+]
