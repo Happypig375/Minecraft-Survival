@@ -1,114 +1,13 @@
-[17:58:34] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[17:58:34] [Server thread/INFO]: Loading properties
-[17:58:34] [Server thread/INFO]: Default game type: SURVIVAL
-[17:58:34] [Server thread/INFO]: Generating keypair
-[17:58:34] [Server thread/INFO]: Starting Minecraft server on *:375
-[17:58:34] [Server thread/INFO]: Using default channel type
-[17:58:34] [Server thread/INFO]: Preparing level "Survivalv2"
-[17:58:34] [Server thread/INFO]: Preparing start region for level 0
-[17:58:35] [Server thread/INFO]: Preparing spawn area: 20%
-[17:58:36] [Server thread/INFO]: Done (2.027s)! For help, type "help" or "?"
-[17:59:10] [User Authenticator #1/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
-[17:59:11] [Server thread/INFO]: KooDog[/221.124.82.235:57504] logged in with entity id 89 at (-15271.5, 71.0, -468.5)
-[17:59:11] [Server thread/INFO]: KooDog joined the game
-[17:59:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3736ms behind, skipping 74 tick(s)
-[18:01:42] [User Authenticator #2/INFO]: UUID of player Happypig375 is 1b5d49e1-8ea0-4d62-9e34-765f246c1c80
-[18:01:42] [Server thread/INFO]: Happypig375[/192.168.1.50:59230] logged in with entity id 4450 at (192.19866286312788, 63.0, 699.5)
-[18:01:42] [Server thread/INFO]: Happypig375 joined the game
-[18:12:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2293ms behind, skipping 45 tick(s)
-[18:12:28] [Server thread/WARN]: KooDog moved too quickly! 9.24568796690437,-0.2468000194787976,4.405901358076335
-[18:12:28] [Server thread/WARN]: Happypig375 moved too quickly! -169.42064690821803,-15.0,-607.9205914765851
-[18:19:13] [Server thread/INFO]: <KooDog> -15109/68/-207
-[18:19:18] [Server thread/WARN]: Happypig375 moved too quickly! -13436.600000023842,-30.0,-480.8089995496
-[18:20:32] [Server thread/INFO]: KooDog lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:20:32] [Server thread/INFO]: KooDog left the game
-[18:20:46] [User Authenticator #3/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
-[18:20:46] [Server thread/INFO]: KooDog[/221.124.82.235:57586] logged in with entity id 73628 at (-15153.711904923655, 72.0, -220.99846754371896)
-[18:20:46] [Server thread/INFO]: KooDog joined the game
-[18:20:58] [Server thread/WARN]: Tried to over-fill a container
-[18:32:53] [Server thread/INFO]: KooDog lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:32:53] [Server thread/INFO]: KooDog left the game
-[18:33:09] [User Authenticator #4/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
-[18:33:09] [Server thread/INFO]: KooDog[/221.124.82.235:57607] logged in with entity id 85048 at (-15123.040751786324, 63.0, -337.40366727359725)
-[18:33:09] [Server thread/INFO]: KooDog joined the game
-[18:35:02] [Server thread/INFO]: KooDog lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:35:02] [Server thread/INFO]: KooDog left the game
-[18:35:22] [User Authenticator #5/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
-[18:35:22] [Server thread/INFO]: KooDog[/221.124.82.235:57617] logged in with entity id 86726 at (-15135.52666253637, 66.0, -341.37879714024325)
-[18:35:22] [Server thread/INFO]: KooDog joined the game
-[18:37:36] [Server thread/INFO]: <KooDog> -15100/59/-302
-[18:37:46] [Server thread/INFO]: KooDog lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:37:46] [Server thread/INFO]: KooDog left the game
-[18:38:13] [User Authenticator #6/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
-[18:38:13] [Server thread/INFO]: KooDog[/221.124.82.235:57634] logged in with entity id 89429 at (-15094.967526526154, 59.0, -300.7934882338573)
-[18:38:13] [Server thread/INFO]: KooDog joined the game
-[18:43:52] [Server thread/INFO]: KooDog lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:43:52] [Server thread/INFO]: KooDog left the game
-[18:44:09] [User Authenticator #7/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
-[18:44:09] [Server thread/INFO]: KooDog[/221.124.82.235:57666] logged in with entity id 99591 at (-15564.422309383623, 67.0, -587.2357183245028)
-[18:44:09] [Server thread/INFO]: KooDog joined the game
-[19:11:58] [User Authenticator #8/INFO]: UUID of player BlowBearBear is e89c5b59-a2f9-4f97-8578-e0e916301509
-[19:11:58] [Server thread/INFO]: BlowBearBear[/58.176.244.233:60814] logged in with entity id 133585 at (-1794.8546179715468, 95.0, 40.540993547934086)
-[19:11:58] [Server thread/INFO]: BlowBearBear joined the game
-[19:17:24] [Server thread/WARN]: Happypig375 moved too quickly! -13439.399999976158,-30.0,-481.38026989794514
-[19:18:11] [Server thread/INFO]: [BlowBearBear: Set own game mode to Survival Mode]
-[19:18:12] [Server thread/INFO]: BlowBearBear tried to swim in lava
-[19:18:41] [Server thread/INFO]: [KooDog: Game rule keepInventory has been updated to true]
-[19:19:14] [Server thread/INFO]: [BlowBearBear: Set own game mode to Creative Mode]
-[19:24:09] [Server thread/INFO]: [BlowBearBear: Set own game mode to Survival Mode]
-[19:24:15] [Server thread/WARN]: BlowBearBear moved too quickly! -160.46937640407992,-1.0,-274.17319122559553
-[19:24:46] [Server thread/INFO]: [BlowBearBear: Set own game mode to Creative Mode]
-[19:24:55] [Server thread/INFO]: [BlowBearBear: Set own game mode to Survival Mode]
-[19:25:05] [Server thread/WARN]: BlowBearBear moved too quickly! 168.682481903971,15.0,608.3645994617265
-[19:26:52] [Server thread/INFO]: [BlowBearBear: Set own game mode to Creative Mode]
-[19:27:00] [Server thread/INFO]: [BlowBearBear: Set own game mode to Survival Mode]
-[19:29:16] [Server thread/WARN]: BlowBearBear moved too quickly! -168.62816781810187,-15.0,-608.0357325457005
-[19:32:04] [Server thread/INFO]: BlowBearBear lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:32:04] [Server thread/INFO]: BlowBearBear left the game
-[19:32:50] [Server thread/INFO]: KooDog lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:32:50] [Server thread/INFO]: KooDog left the game
-[19:33:12] [User Authenticator #9/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
-[19:33:12] [Server thread/INFO]: KooDog[/221.124.82.235:57841] logged in with entity id 234254 at (-15356.081831037303, 63.0, -535.1243693452191)
-[19:33:12] [Server thread/INFO]: KooDog joined the game
-[19:33:44] [Server thread/INFO]: KooDog was killed by Witch using magic
-[19:34:01] [Server thread/INFO]: [KooDog: Set own game mode to Creative Mode]
-[19:34:04] [Server thread/INFO]: [KooDog: Set own game mode to Spectator Mode]
-[19:35:26] [Server thread/INFO]: [KooDog: Set own game mode to Creative Mode]
-[19:35:57] [Server thread/INFO]: <KooDog> -15305/20/-459
-[19:36:02] [Server thread/INFO]: [KooDog: Set own game mode to Spectator Mode]
-[19:36:13] [Server thread/INFO]: [KooDog: Set own game mode to Creative Mode]
-[19:36:15] [Server thread/INFO]: [KooDog: Set own game mode to Survival Mode]
-[19:37:24] [Server thread/WARN]: KooDog moved wrongly!
-[19:37:25] [Server thread/WARN]: KooDog moved wrongly!
-[19:37:26] [Server thread/WARN]: KooDog moved wrongly!
-[19:37:27] [Server thread/WARN]: KooDog moved wrongly!
-[19:37:30] [Server thread/INFO]: [KooDog: Set own game mode to Creative Mode]
-[19:37:33] [Server thread/INFO]: [KooDog: Set own game mode to Survival Mode]
-[19:50:54] [Server thread/INFO]: KooDog lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:50:54] [Server thread/INFO]: KooDog left the game
-[20:27:58] [Server thread/WARN]: Happypig375 moved wrongly!
-[20:34:37] [Server thread/WARN]: Happypig375 moved wrongly!
-[20:34:46] [Server thread/WARN]: Happypig375 moved too quickly! 168.6339123674636,15.0,608.2095731331717
-[20:38:37] [Server thread/WARN]: Happypig375 moved too quickly! 169.5191884128763,15.0,607.5000833546317
-[20:57:13] [Server thread/WARN]: Happypig375 moved too quickly! 169.55728051303993,15.0,607.5030128423009
-[21:08:55] [Server thread/WARN]: Happypig375 moved too quickly! 713.0,26.0,749.8000000119209
-[21:09:10] [Server thread/INFO]: <Happypig375> 813 68 854
-[21:45:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2017ms behind, skipping 40 tick(s)
-[21:45:45] [Server thread/WARN]: Happypig375 moved too quickly! -6214.0,-6.0,376.2484211652648
-[21:51:12] [Server thread/INFO]: <Happypig375> -7756 70 306
-[21:53:29] [Server thread/WARN]: Happypig375 moved too quickly! -6778.496310571329,-25.0,267.30345494703175
-[21:58:28] [Server thread/INFO]: Happypig375 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:58:28] [Server thread/INFO]: Happypig375 left the game
-[22:00:36] [Server thread/INFO]: Stopping the server
-[22:00:36] [Server thread/INFO]: Stopping server
-[22:00:36] [Server thread/INFO]: Saving players
-[22:00:36] [Server thread/INFO]: Saving worlds
-[22:00:36] [Server thread/INFO]: Saving chunks for level 'Survivalv2'/Overworld
-[22:00:36] [Server thread/INFO]: Saving chunks for level 'Survivalv2'/Nether
-[22:00:36] [Server thread/INFO]: Saving chunks for level 'Survivalv2'/The End
-[22:00:36] [Server Shutdown Thread/INFO]: Stopping server
-[22:00:36] [Server Shutdown Thread/INFO]: Saving players
-[22:00:36] [Server Shutdown Thread/INFO]: Saving worlds
-[22:00:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'Survivalv2'/Overworld
-[22:00:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'Survivalv2'/Nether
-[22:00:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'Survivalv2'/The End
+[07:30:35] [Server thread/INFO]: Stopping the server
+[07:30:36] [Server thread/INFO]: Stopping server
+[07:30:36] [Server thread/INFO]: Saving players
+[07:30:36] [Server thread/INFO]: Saving worlds
+[07:30:36] [Server thread/INFO]: Saving chunks for level 'Survivalv2'/Overworld
+[07:30:36] [Server thread/INFO]: Saving chunks for level 'Survivalv2'/Nether
+[07:30:36] [Server thread/INFO]: Saving chunks for level 'Survivalv2'/The End
+[07:30:37] [Server Shutdown Thread/INFO]: Stopping server
+[07:30:37] [Server Shutdown Thread/INFO]: Saving players
+[07:30:37] [Server Shutdown Thread/INFO]: Saving worlds
+[07:30:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'Survivalv2'/Overworld
+[07:30:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'Survivalv2'/Nether
+[07:30:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'Survivalv2'/The End
