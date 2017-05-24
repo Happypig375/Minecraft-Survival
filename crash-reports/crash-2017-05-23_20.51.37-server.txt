@@ -1,0 +1,61 @@
+---- Minecraft Crash Report ----
+// I let you down. Sorry :(
+
+Time: 5/23/17 8:51 PM
+Description: Exception ticking world
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.remove(Unknown Source)
+	at lv.d(SourceFile:198)
+	at lw.d(SourceFile:201)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:626)
+	at lh.D(SourceFile:335)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:562)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:466)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.HashMap$HashIterator.remove(Unknown Source)
+	at lv.d(SourceFile:198)
+	at lw.d(SourceFile:201)
+
+-- Affected level --
+Details:
+	Level name: Survivalv2
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 1075 Drop: 820
+	Level seed: -7687530755695975694
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (199,64,319), Chunk: (at 7,4,15 in 12,19; contains blocks 192,0,304 to 207,255,319), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 10281017 game time, 11883233 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 54805 (now: false), thunder time: 31393 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.D(SourceFile:626)
+	at lh.D(SourceFile:335)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:562)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:466)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.11.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_131, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 733296856 bytes (699 MB) / 1062731776 bytes (1013 MB) up to 1908932608 bytes (1820 MB)
+	JVM Flags: 2 total; -Xms1024M -Xmx2048M
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
