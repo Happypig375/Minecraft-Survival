@@ -1,0 +1,27 @@
+{
+    "pools":
+	[
+        {
+            "rolls": 1,
+            "entries":
+			[
+                {
+                    "type": "loot_table",
+                    "name": "minecraft:entities/skeleton",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+            "rolls": 1,
+            "entries":
+			[
+                {
+                    "type": "loot_table",
+                    "name": "tr2:monsters/tier3offenseloot",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

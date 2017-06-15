@@ -1,0 +1,1071 @@
+{
+    "pools":
+	[
+        {
+            "rolls": 3,
+			"bonus_rolls":
+			{
+				"min": 0,
+				"max": 1
+			},
+            "entries":
+			[
+                {
+                    "type": "item",
+                    "name": "minecraft:obsidian",
+                    "weight": 130,
+					"quality": 130,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 8
+                            }
+                        },
+						{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{display:{Lore:[\"§d§oWizzle the Blacksmith at the\",\"§d§ostart of the area could\",\"§d§oprobably use this to\",\"§d§omake items for you!\"],Name:\"§aObsidian Ore\"},ench:[{id:35s,lvl:1s}]}"
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:book",
+                    "weight": 5,
+					"quality": 10,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{display:{Lore:[\"§d§oWizzle the Blacksmith at the\",\"§d§ostart of the area could\",\"§d§oprobably use this!\"],Name:\"§dRecipe: Hecaten (Bow)\"},ench:[{id:35s,lvl:1s}],Unbreakable:1b}"
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:cooked_chicken",
+                    "weight": 100,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 3
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:baked_potato",
+                    "weight": 20,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 2,
+                                "max": 6
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:golden_apple",
+                    "weight": 4,
+					"quality": 4,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 100,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 14
+                            }
+                        },
+						{
+                            "function": "set_data",
+                            "data": 6
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:end_bricks",
+                    "weight": 100,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 14
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:carpet",
+                    "weight": 8,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:item_frame",
+                    "weight": 8,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:painting",
+                    "weight": 8,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:flower_pot",
+                    "weight": 8,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "weight": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "weight": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+						},
+						{
+                            "function": "set_data",
+                            "data": 1
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "weight": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+						},
+						{
+                            "function": "set_data",
+                            "data": 2
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "weight": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+						},
+						{
+                            "function": "set_data",
+                            "data": 3
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "weight": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+						},
+						{
+                            "function": "set_data",
+                            "data": 4
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "weight": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+						},
+						{
+                            "function": "set_data",
+                            "data": 5
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "weight": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+						},
+						{
+                            "function": "set_data",
+                            "data": 6
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "weight": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+						},
+						{
+                            "function": "set_data",
+                            "data": 7
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "weight": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+						},
+						{
+                            "function": "set_data",
+                            "data": 8
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:yellow_flower",
+                    "weight": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 32
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:experience_bottle",
+                    "weight": 60,
+					"quality": 60,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 4,
+                                "max": 16
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:arrow",
+                    "weight": 60,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 16,
+                                "max": 32
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:leather",
+                    "weight": 20,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 5
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:book",
+                    "weight": 10,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 3
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:tipped_arrow",
+                    "weight": 20,
+					"quality": 20,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 4,
+                                "max": 16
+                            }
+                        },
+						{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Potion:\"minecraft:slowness\"}"
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:dye",
+                    "weight": 60,
+					"quality": 60,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 6,
+                                "max": 18
+                            }
+                        },
+						{
+                            "function": "set_data",
+                            "data": 4
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:potion",
+                    "weight": 20,
+					"quality": 20,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Potion:\"minecraft:healing\"}"
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:potion",
+                    "weight": 20,
+					"quality": 20,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Potion:\"minecraft:swiftness\"}"
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:name_tag",
+                    "weight": 6,
+					"quality": 2,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:diamond",
+                    "weight": 3,
+					"quality": 3,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_ore",
+                    "weight": 75,
+					"quality": 75,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:log",
+                    "weight": 25,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 16
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:coal",
+                    "weight": 100,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 8,
+                                "max": 16
+                            }
+                        }
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:3,id:0}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:3,id:2}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:3,id:4}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:3,id:3}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:2,id:8}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:3,id:16}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:3,id:17}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:1,id:20}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:2,id:21}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:4,id:32}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:1,id:33}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:2,id:35}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:3,id:48}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:1,id:49}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:1,id:50}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_book",
+                    "weight": 1,
+					"quality": 1,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{StoredEnchantments:[{lvl:1,id:51}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_boots",
+                    "weight": 3,
+					"quality": 3,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": 30,
+							"treasure": false
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Unbreakable:1}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_leggings",
+                    "weight": 3,
+					"quality": 3,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": 30,
+							"treasure": false
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Unbreakable:1}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_chestplate",
+                    "weight": 3,
+					"quality": 3,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": 30,
+							"treasure": false
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Unbreakable:1}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_helmet",
+                    "weight": 3,
+					"quality": 3,
+                    "functions":
+					[
+                        {
+                            "function": "minecraft:set_count",
+                            "count":
+							{
+                                "min": 1,
+                                "max": 1
+                            }
+                        },
+						{
+							"function": "minecraft:enchant_with_levels",
+							"levels": 30,
+							"treasure": false
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Unbreakable:1}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

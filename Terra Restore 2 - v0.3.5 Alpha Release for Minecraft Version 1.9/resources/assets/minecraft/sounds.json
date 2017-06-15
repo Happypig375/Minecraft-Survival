@@ -1,0 +1,229 @@
+{
+  "Restore": {
+    "category": "player",
+    "sounds": [
+      "RestoreSFX"
+    ]
+  },
+  "Teleport": {
+    "category": "player",
+    "sounds": [
+      "TeleportSFX"
+    ]
+  },
+  "WaterMagicMissiles": {
+    "category": "player",
+    "sounds": [
+      "WaterMagicMissiles"
+    ]
+  },
+  "SpookyUndead": {
+    "category": "player",
+    "sounds": [
+      "SpookyUndead"
+    ]
+  },
+  "Absolution": {
+    "category": "record",
+    "sounds": [{
+      "name": "Makkon - Absolution",
+	  "stream": true
+    }]
+  },
+  "TheBasics": {
+    "category": "record",
+    "sounds": [{
+      "name": "Radiarc - The Basics",
+	  "stream": true
+    }]
+  },
+  "VillageTheme": {
+    "category": "record",
+    "sounds": [{
+      "name": "Banana - Village Theme",
+	  "stream": true
+    }]
+  },
+  "Blank": {
+    "category": "record",
+    "sounds": [{
+      "name": "blank",
+	  "stream": true
+    }]
+  },
+  "StareDown": {
+    "category": "record",
+    "sounds": [{
+      "name": "Radiarc - Stare Down",
+	  "stream": true
+    }]
+  },
+  "RiverbedCircuit": {
+    "category": "record",
+    "sounds": [{
+      "name": "Makkon - Riverbed Circuit",
+	  "stream": true
+    }]
+  },
+  "RiverbedCircuitSnippet": {
+    "category": "record",
+    "sounds": [{
+      "name": "Makkon - Riverbed Circuit Snippet",
+	  "stream": true
+    }]
+  },
+  "ASummersDay": {
+    "category": "record",
+    "sounds": [{
+      "name": "Jastrian - A Summers Day",
+	  "stream": true
+    }]
+  },
+  "Cats": {
+    "category": "record",
+    "sounds": [{
+      "name": "Waterflame - Cats",
+	  "stream": true
+    }]
+  },
+  "EraOfPeace": {
+    "category": "record",
+    "sounds": [{
+      "name": "Nemesis Theory - Era of Peace",
+	  "stream": true
+    }]
+  },
+  "SorceryTemple": {
+    "category": "record",
+    "sounds": [{
+      "name": "ILG924 - Sorcery Temple",
+	  "stream": true
+    }]
+  },
+  "HauntedForest": {
+    "category": "record",
+    "sounds": [{
+      "name": "ILG924 - Haunted Forest",
+	  "stream": true
+    }]
+  },
+  "AnArmyOfOne": {
+    "category": "record",
+    "sounds": [{
+      "name": "Nemesis Theory - An Army Of One",
+	  "stream": true
+    }]
+  },
+  "ShootingForTheStars": {
+    "category": "record",
+    "sounds": [{
+      "name": "TheDashDub - Shooting For The Stars",
+	  "stream": true
+    }]
+  },
+  "Regality": {
+    "category": "record",
+    "sounds": [{
+      "name": "Aurelleah - Regality",
+	  "stream": true
+    }]
+  },
+  "AmongTheGriffons": {
+    "category": "record",
+    "sounds": [{
+      "name": "Radiarc - Among the Griffons",
+	  "stream": true
+    }]
+  },
+  "AncientGateway": {
+    "category": "record",
+    "sounds": [{
+      "name": "Nemesis Theory - Ancient Gateway",
+	  "stream": true
+    }]
+  },
+  "Determination": {
+    "category": "record",
+    "sounds": [{
+      "name": "Radiarc - Determination",
+	  "stream": true
+    }]
+  },
+  "Draconequus": {
+    "category": "record",
+    "sounds": [{
+      "name": "Radiarc - Draconequus",
+	  "stream": true
+    }]
+  },
+  "FireCastle": {
+    "category": "record",
+    "sounds": [{
+      "name": "Makkon - Firecastle",
+	  "stream": true
+    }]
+  },
+  "Outpost": {
+    "category": "record",
+    "sounds": [{
+      "name": "TheDashDub - Outpost",
+	  "stream": true
+    }]
+  },
+  "Invasion": {
+    "category": "record",
+    "sounds": [{
+      "name": "ILG924 - Invasion",
+	  "stream": true
+    }]
+  },
+  "Battlegrounds": {
+    "category": "record",
+    "sounds": [{
+      "name": "Radiarc - Battlegrounds",
+	  "stream": true
+    }]
+  },
+  "ARadianceForlorn": {
+    "category": "record",
+    "sounds": [{
+      "name": "Radiarc - A Radiance Forlorn",
+	  "stream": true
+    }]
+  },
+  "ImminentThreat": {
+    "category": "record",
+    "sounds": [{
+      "name": "ILG924 - Imminent Threat",
+	  "stream": true
+    }]
+  },
+  "Rancor": {
+    "category": "record",
+    "sounds": [{
+      "name": "Radiarc - Rancor",
+	  "stream": true
+    }]
+  },
+  "Onslaught": {
+    "category": "record",
+    "sounds": [{
+      "name": "Radiarc - Onslaught",
+	  "stream": true
+    }]
+  },
+  "RisingSun": {
+    "category": "record",
+    "sounds": [{
+      "name": "Nemesis Theory - Rising Sun",
+	  "stream": true
+    }]
+  },
+  "Daring": {
+    "category": "record",
+    "sounds": [{
+      "name": "Radiarc - Daring",
+	  "stream": true
+    }]
+  }
+}
