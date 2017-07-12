@@ -1,255 +1,182 @@
-[17:06:06] [Server thread/INFO]: Loading properties
-[17:06:07] [Server thread/INFO]: Default game type: SURVIVAL
-[17:06:07] [Server thread/INFO]: Generating keypair
-[17:06:07] [Server thread/INFO]: Starting Minecraft server on *:375
-[17:06:07] [Server thread/INFO]: Using default channel type
-[17:06:09] [Server thread/INFO]: Preparing level "Survivalv2"
-[17:06:10] [Server thread/INFO]: Loaded 488 advancements
-[17:06:11] [Server thread/INFO]: Preparing start region for level 0
-[17:06:15] [Server thread/INFO]: Preparing spawn area: 0%
-[17:06:16] [Server thread/INFO]: Preparing spawn area: 2%
-[17:06:17] [Server thread/INFO]: Preparing spawn area: 12%
-[17:06:18] [Server thread/INFO]: Preparing spawn area: 32%
-[17:06:19] [Server thread/INFO]: Preparing spawn area: 52%
-[17:06:20] [Server thread/INFO]: Preparing spawn area: 96%
-[17:06:20] [Server thread/INFO]: Done (11.314s)! For help, type "help" or "?"
-[17:06:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4933ms behind, skipping 98 tick(s)
-[17:07:23] [User Authenticator #1/INFO]: UUID of player Happypig375 is 1b5d49e1-8ea0-4d62-9e34-765f246c1c80
-[17:07:23] [Server thread/INFO]: Happypig375[/192.168.1.50:57712] logged in with entity id 15 at (184.58135202353657, 49.0, 720.3420103057277)
-[17:07:23] [Server thread/INFO]: Happypig375 joined the game
-[17:07:25] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 34dede73-a6aa-4ab4-bc0a-92cb72b049f9
-[17:07:25] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 714a4b4d-8705-4cbe-8f41-a46ad8b1ac4f
-[17:07:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3386ms behind, skipping 67 tick(s)
-[17:07:34] [User Authenticator #2/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
-[17:07:34] [Server thread/INFO]: KooDog[/221.124.82.235:54981] logged in with entity id 375 at (186.0098551345942, 57.5, 704.3000000119209)
-[17:07:34] [Server thread/INFO]: KooDog joined the game
-[17:07:38] [User Authenticator #3/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
-[17:07:38] [Server thread/INFO]: KooDog lost connection: You logged in from another location
-[17:07:38] [Server thread/INFO]: KooDog left the game
-[17:07:38] [Server thread/WARN]: handleDisconnection() called twice
-[17:07:38] [Server thread/INFO]: KooDog[/221.124.82.235:54985] logged in with entity id 695 at (186.0098551345942, 57.5, 704.3000000119209)
-[17:07:38] [Server thread/INFO]: KooDog joined the game
-[17:08:22] [Server thread/INFO]: KooDog has made the advancement [Stone Age]
-[17:10:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2645ms behind, skipping 52 tick(s)
-[17:10:18] [Server thread/WARN]: Happypig375 moved too quickly! -7.114774794352996,-7.078400001525878,0.020321002003584
-[17:10:18] [Server thread/WARN]: KooDog moved too quickly! -168.00718078004763,-15.0,-608.0112411249168
-[17:12:22] [Server thread/INFO]: KooDog has made the advancement [Monster Hunter]
-[17:15:15] [Server thread/WARN]: KooDog moved too quickly! -168.72632565076742,-15.0,-608.1142212810213
-[17:18:03] [Server thread/INFO]: Happypig375 has made the advancement [A Seedy Place]
-[17:21:16] [Server thread/INFO]: Happypig375 has made the advancement [Hot Stuff]
-[17:21:38] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 34dede73-a6aa-4ab4-bc0a-92cb72b049f9
-[17:21:40] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 714a4b4d-8705-4cbe-8f41-a46ad8b1ac4f
-[17:21:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2360ms behind, skipping 47 tick(s)
-[17:21:40] [Server thread/WARN]: Happypig375 moved too quickly! 168.61526634768563,15.0,608.0470629381645
-[17:24:56] [Server thread/WARN]: Happypig375 moved too quickly! 168.0978450173509,15.0,608.122265560308
-[17:26:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2347ms behind, skipping 46 tick(s)
-[17:26:25] [Server thread/WARN]: KooDog moved too quickly! -169.2204410051599,-15.0,-608.4345891859529
-[17:29:34] [Server thread/WARN]: Happypig375 moved too quickly! -167.70695265399593,-15.0,-607.6256253255623
-[17:30:20] [Server thread/INFO]: Happypig375 tried to swim in lava
-[17:30:37] [Server thread/WARN]: KooDog moved too quickly! -169.28329736150363,-15.0,-607.7332638542975
-[17:40:17] [Server thread/INFO]: <KooDog> 26 48 31
-[17:42:31] [Server thread/INFO]: <Happypig375> 26 47 12
-[17:44:45] [Server thread/WARN]: Happypig375 moved wrongly!
-[17:50:29] [Server thread/INFO]: <Happypig375> 26 47 85
-[17:59:27] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 34dede73-a6aa-4ab4-bc0a-92cb72b049f9
-[17:59:29] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 714a4b4d-8705-4cbe-8f41-a46ad8b1ac4f
-[17:59:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3170ms behind, skipping 63 tick(s)
-[17:59:30] [Server thread/WARN]: Happypig375 moved too quickly! 2.0629597035157943,-5.837858578973012,-8.05720723237372
-[17:59:30] [Server thread/WARN]: KooDog moved too quickly! 169.43702973420784,15.0,608.0412860081839
-[18:02:26] [Server thread/INFO]: KooDog has made the advancement [Isn't It Iron Pick]
-[18:03:50] [Server thread/INFO]: KooDog has made the advancement [A Seedy Place]
-[18:06:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2107ms behind, skipping 42 tick(s)
-[18:06:46] [Server thread/WARN]: KooDog moved too quickly! 168.58486578894707,15.0,608.1037404334603
-[18:09:16] [Server thread/WARN]: Happypig375 moved too quickly! 168.6604858925512,15.0,608.1697899046042
-[18:43:55] [Server thread/INFO]: KooDog has made the advancement [Local Brewery]
-[18:44:42] [Server thread/INFO]: Happypig375 has made the advancement [Local Brewery]
-[18:55:06] [Server thread/INFO]: KooDog has made the advancement [Diamonds!]
-[18:55:13] [Server thread/INFO]: Happypig375 has made the advancement [Diamonds!]
-[18:57:27] [Server thread/INFO]: KooDog has made the advancement [Not Today, Thank You]
-[18:57:57] [Server thread/INFO]: KooDog lost connection: Disconnected
-[18:57:57] [Server thread/INFO]: KooDog left the game
-[19:00:50] [User Authenticator #4/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
-[19:00:51] [Server thread/INFO]: KooDog[/221.124.82.235:55159] logged in with entity id 115253 at (191.32921108987017, 70.0, 719.8825781776322)
-[19:00:51] [Server thread/INFO]: KooDog joined the game
-[19:05:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3928ms behind, skipping 78 tick(s)
-[19:05:31] [Server thread/WARN]: KooDog moved too quickly! 0.7215777238367878,0.0,-9.989077905691374
-[19:05:31] [Server thread/WARN]: Happypig375 moved too quickly! -169.43535184324907,-15.0,-607.7938123769025
-[19:06:10] [Server thread/WARN]: Happypig375 moved too quickly! 169.01885092023434,15.0,608.6395153403168
-[19:06:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8403ms behind, skipping 168 tick(s)
-[19:06:36] [Server thread/WARN]: Happypig375 moved too quickly! -169.64460191501695,-15.0,-608.0305197866066
-[19:07:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2148ms behind, skipping 42 tick(s)
-[19:07:13] [Server thread/WARN]: Happypig375 moved too quickly! 169.6338310336003,15.0,607.9960326860654
-[19:07:40] [Server thread/WARN]: Happypig375 moved too quickly! -169.5503165685999,-15.0,-607.5169368588525
-[19:07:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2651ms behind, skipping 53 tick(s)
-[19:08:20] [Server thread/WARN]: Happypig375 moved too quickly! 169.89405499567295,15.0,607.3817071829945
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 10.369580539270828,3.622346866904991E-11,0.7894088009236384
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 10.768709919981859,3.633005007941392E-11,0.8142475828224178
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 11.167925871649288,3.6699532302009175E-11,0.8367942327862465
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 11.56721964031783,3.723243935382925E-11,0.8568714609388053
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 11.966579718995263,3.7843506106582936E-11,0.8743542392111294
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 12.365993192114388,3.846167828669422E-11,0.8891684319989963
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 12.76544671830618,3.9037217902659904E-11,0.9012818793395354
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 13.16492706844366,3.9534597817691974E-11,0.9106925311854184
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 13.564421818497465,3.992539632236003E-11,0.9174292619363769
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 13.963919462741217,4.020961341666407E-11,0.9215411036628893
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 14.363409489559274,4.0394354527961696E-11,0.9230913901465101
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 14.762882788675142,4.048672508361051E-11,0.9221601457128372
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 15.162331339654031,4.050093593832571E-11,0.918834747667006
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 15.561748542503096,4.0451197946822504E-11,0.9132130087192536
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 15.961128751526815,4.036593281853129E-11,0.9053944705221966
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 16.360467563602242,4.0252245980809676E-11,0.8954840503632795
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 16.7597612617879,4.013145371573046E-11,0.8835838458011267
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 17.159007394906325,4.001776687800884E-11,0.8698010602358863
-[19:09:05] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 17.558204148053278,3.991118546764483E-11,0.8542398391815595
-[19:09:05] [Server thread/WARN]: Happypig375 moved too quickly! -169.40054772540185,-15.0,-607.6617089563824
-[19:09:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2481ms behind, skipping 49 tick(s)
-[19:09:29] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 10.395977700716685,0.0,0.288121352195958
-[19:09:29] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 10.795822996898096,0.0,0.29920294266503333
-[19:10:01] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 34dede73-a6aa-4ab4-bc0a-92cb72b049f9
-[19:10:03] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 714a4b4d-8705-4cbe-8f41-a46ad8b1ac4f
-[19:10:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2698ms behind, skipping 53 tick(s)
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 9.585242317140569,0.0,3.541919564138084
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 9.9355808195495,0.0,3.678460042804545
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 10.288088030226959,0.0,3.816038785249475
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 10.64254567013461,0.0,3.954555531104347
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 10.998758696302957,0.0,4.09391648000576
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 11.356550161904352,0.0,4.234040778594476
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 11.715762222957778,0.0,4.374852091883554
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 12.076251407999166,0.0,4.516285285352069
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 12.437627736711761,0.0,4.6589249996410445
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 12.799271372618819,0.0,4.803870709275884
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 13.160645309630581,0.0,4.951969813096639
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 13.52128801287563,0.0,5.103867517223875
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 13.880812647880134,0.0,5.260033910732432
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 14.238899226821673,0.0,5.420798043725881
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 14.595287555058462,0.0,5.586374583602947
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 14.949773617369488,0.0,5.756880777935976
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 15.302203468272523,0.0,5.932354665903745
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 15.652464753078789,0.0,6.112774262547532
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 16.0004825935157,0.0,6.29806806878787
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 16.346213254733357,0.0,6.488127441753136
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 16.689640211397204,0.0,6.682814354825155
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 17.0307726262796,0.0,6.881965144402443
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 17.369634556007554,0.0,7.085406028296347
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 17.70626878139126,0.0,7.292948496126542
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 18.04073091541727,0.0,7.504397336789225
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 18.373086242484305,0.0,7.719554691092981
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 18.703406739604702,0.0,7.938223605999042
-[19:10:04] [Server thread/WARN]: Happypig375 moved too quickly! 169.87133588216648,15.0,607.5894458061323
-[19:10:04] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 19.03177071820494,0.0,8.160208173111414
-[19:31:32] [Server thread/INFO]: <KooDog> 2191/70/343
-[19:36:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2627ms behind, skipping 52 tick(s)
-[19:36:43] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 8.129002115089861,0.0,-6.486853497989387
-[19:36:43] [Server thread/WARN]: Boat (vehicle of KooDog) moved too quickly! 8.441656043787134,0.0,-6.736347864249183
-[19:36:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4533ms behind, skipping 90 tick(s)
-[19:38:08] [Server thread/WARN]: Boat moved wrongly!
-[19:52:20] [Server thread/INFO]: KooDog lost connection: Disconnected
-[19:52:20] [Server thread/INFO]: KooDog left the game
-[19:54:14] [User Authenticator #5/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
-[19:54:14] [Server thread/INFO]: KooDog[/221.124.82.235:55375] logged in with entity id 245757 at (4011.390856463716, 68.0, 328.30000001192093)
-[19:54:14] [Server thread/INFO]: KooDog joined the game
-[19:58:25] [Server thread/INFO]: KooDog lost connection: Disconnected
-[19:58:25] [Server thread/INFO]: KooDog left the game
-[20:05:41] [Server thread/INFO]: Happypig375 has made the advancement [Ice Bucket Challenge]
-[20:09:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4357ms behind, skipping 87 tick(s)
-[20:24:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4186ms behind, skipping 83 tick(s)
-[20:24:53] [Server thread/WARN]: Happypig375 moved too quickly! -8274.083856730378,12.0,-7745.462265626461
-[20:31:13] [User Authenticator #6/INFO]: UUID of player GamerAhsiu is 469bd967-fa39-47fd-8299-5386e92a3ca8
-[20:31:14] [Server thread/INFO]: GamerAhsiu[/222.167.54.109:65363] logged in with entity id 282624 at (170.30000001192093, 63.0, 749.3000000119209)
-[20:31:14] [Server thread/INFO]: GamerAhsiu joined the game
-[20:31:16] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 34dede73-a6aa-4ab4-bc0a-92cb72b049f9
-[20:31:16] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 714a4b4d-8705-4cbe-8f41-a46ad8b1ac4f
-[20:31:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4411ms behind, skipping 88 tick(s)
-[20:31:33] [Server thread/INFO]: <Happypig375> Sleep
-[20:31:34] [Server thread/INFO]: <GamerAhsiu> hi
-[20:31:43] [Server thread/INFO]: <GamerAhsiu> ok
-[20:31:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2355ms behind, skipping 47 tick(s)
-[20:31:58] [Server thread/WARN]: Happypig375 moved too quickly! 8272.925209863799,-12.0,7744.63442838568
-[20:32:07] [Server thread/INFO]: <GamerAhsiu> so many cactus
-[20:35:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3315ms behind, skipping 66 tick(s)
-[20:35:07] [Server thread/WARN]: Happypig375 moved too quickly! -7564.0,-12.0,-11090.474096940881
-[20:35:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2062ms behind, skipping 41 tick(s)
-[20:35:45] [Server thread/WARN]: Happypig375 moved too quickly! 7564.0,12.0,11091.515063901874
-[20:44:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2648ms behind, skipping 52 tick(s)
-[20:44:14] [Server thread/WARN]: Happypig375 moved too quickly! 10.102165920186621,0.0,-0.012312019360251725
-[20:44:14] [Server thread/WARN]: GamerAhsiu moved too quickly! 2.0684872251875106,-0.6815583980583142,-10.003344141287926
-[20:45:34] [Server thread/WARN]: Happypig375 moved too quickly! 169.1167107046429,15.0,608.5970129602428
-[20:50:42] [Server thread/INFO]: GamerAhsiu has made the advancement [We Need to Go Deeper]
-[20:50:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2306ms behind, skipping 46 tick(s)
-[20:50:42] [Server thread/WARN]: GamerAhsiu moved too quickly! -169.80666719187525,-15.0,-608.3644348836502
-[20:50:47] [Server thread/INFO]: GamerAhsiu lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
-[20:50:47] [Server thread/INFO]: GamerAhsiu left the game
-[20:51:57] [User Authenticator #7/INFO]: UUID of player GamerAhsiu is 469bd967-fa39-47fd-8299-5386e92a3ca8
-[20:51:57] [Server thread/INFO]: GamerAhsiu[/222.167.54.109:49644] logged in with entity id 316863 at (22.596666404062375, 48.0, 91.5)
-[20:51:57] [Server thread/INFO]: GamerAhsiu joined the game
-[20:53:58] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 34dede73-a6aa-4ab4-bc0a-92cb72b049f9
-[20:54:00] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 714a4b4d-8705-4cbe-8f41-a46ad8b1ac4f
-[20:54:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2844ms behind, skipping 56 tick(s)
-[20:54:01] [Server thread/WARN]: Happypig375 moved too quickly! 170.06745086613336,15.0,607.3874842146535
-[20:54:55] [Server thread/WARN]: GamerAhsiu moved too quickly! 169.19942752664184,15.0,608.1843212728672
-[20:58:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2278ms behind, skipping 45 tick(s)
-[20:58:26] [Server thread/WARN]: Happypig375 moved too quickly! -169.11755169257856,-15.0,-607.2785068636975
-[20:58:33] [Server thread/INFO]: GamerAhsiu lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
-[20:58:33] [Server thread/INFO]: GamerAhsiu left the game
-[20:59:21] [User Authenticator #8/INFO]: UUID of player GamerAhsiu is 469bd967-fa39-47fd-8299-5386e92a3ca8
-[20:59:21] [Server thread/INFO]: GamerAhsiu[/222.167.54.109:49678] logged in with entity id 323761 at (22.62268862533722, 48.0, 91.5)
-[20:59:21] [Server thread/INFO]: GamerAhsiu joined the game
-[21:04:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2465ms behind, skipping 49 tick(s)
-[21:04:31] [Server thread/WARN]: Happypig375 moved too quickly! 170.0056552850631,-18.0,-114.03747143918734
-[21:18:05] [Server thread/WARN]: Happypig375 moved too quickly! 28.508429785114764,50.0,-22.09362742356861
-[21:19:22] [Server thread/WARN]: Happypig375 moved too quickly! -0.2659697158338623,-49.0,-1.0108847443927376
-[21:19:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2559ms behind, skipping 51 tick(s)
-[21:19:51] [Server thread/WARN]: GamerAhsiu moved too quickly! 0.25925698713287304,49.0,0.9119919007683968
-[21:26:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2429ms behind, skipping 48 tick(s)
-[21:26:25] [Server thread/WARN]: Happypig375 moved too quickly! -0.5447394242231858,-49.0,-0.8930936100279268
-[21:28:37] [Server thread/INFO]: <Happypig375> -5283/62/-1808 new witch hut-4770/65/-1994 village-5798/66/-1929 new village no.2-8636/67/-12722 village-9207/68/-11021 village1624/62/494 village not exact value-1759/70/792 or -2191/70/343 (I think not too sure try to walk there from the first village) e
-[21:45:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2459ms behind, skipping 49 tick(s)
-[21:45:52] [Server thread/WARN]: Happypig375 moved too quickly! 169.3430152704886,-18.0,-112.94923335537247
-[21:45:59] [Server thread/WARN]: GamerAhsiu moved too quickly! 169.63187330311837,-18.0,-113.85505972693363
-[21:46:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2730ms behind, skipping 54 tick(s)
-[21:46:44] [Server thread/WARN]: Happypig375 moved too quickly! 9.262685797047055,1.0,3.699934538679514
-[21:46:44] [Server thread/WARN]: GamerAhsiu moved too quickly! -169.86438714855558,18.0,113.91352298105721
-[21:49:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5655ms behind, skipping 113 tick(s)
-[21:49:22] [Server thread/WARN]: Happypig375 moved too quickly! 1423.4633687988348,-48.0,423.19999998807907
-[21:49:28] [Server thread/WARN]: GamerAhsiu moved too quickly! 1422.9946813973402,-48.0,422.93133697204735
-[21:51:44] [Server thread/INFO]: Happypig375 was shot by Skeleton
-[21:52:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2065ms behind, skipping 41 tick(s)
-[21:52:05] [Server thread/WARN]: Happypig375 moved too quickly! 0.058060613461132504,49.0,0.15438647031600622
-[21:53:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2126ms behind, skipping 42 tick(s)
-[21:53:04] [Server thread/WARN]: Happypig375 moved too quickly! 1422.0,-48.0,422.19999998807907
-[21:57:43] [Server thread/WARN]: GamerAhsiu moved too quickly! -1422.0,48.0,-421.82621370021354
-[22:01:45] [Server thread/WARN]: Happypig375 moved too quickly! 9.761863610672208,0.3693736602695026,-3.042368883983272
-[22:01:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2376ms behind, skipping 47 tick(s)
-[22:04:01] [Server thread/INFO]: <Happypig375> 1624/62/494
-[22:08:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2030ms behind, skipping 40 tick(s)
-[22:08:50] [Server thread/WARN]: Happypig375 moved too quickly! -1422.0,48.0,-422.09050017947175
-[22:09:48] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 34dede73-a6aa-4ab4-bc0a-92cb72b049f9
-[22:09:50] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 714a4b4d-8705-4cbe-8f41-a46ad8b1ac4f
-[22:09:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3485ms behind, skipping 69 tick(s)
-[22:09:51] [Server thread/WARN]: GamerAhsiu moved too quickly! 7.251761157335844,-7.195683172542459,1.053562109949624
-[22:09:51] [Server thread/WARN]: Happypig375 moved too quickly! 170.39999997615814,15.0,608.1297633363984
-[22:10:53] [Server thread/INFO]: Happypig375 has made the advancement [Into Fire]
-[22:11:24] [Server thread/INFO]: GamerAhsiu has made the advancement [Into Fire]
-[22:13:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2398ms behind, skipping 47 tick(s)
-[22:13:17] [Server thread/WARN]: GamerAhsiu moved too quickly! 0.09014533215668052,-1.0,10.134754361509977
-[22:13:17] [Server thread/WARN]: Happypig375 moved too quickly! -169.50984002899213,-15.0,-608.4376097245395
-[22:13:50] [Server thread/INFO]: Happypig375 has made the advancement [A Terrible Fortress]
-[22:14:35] [Server thread/WARN]: Happypig375 moved too quickly! 169.15347970584264,15.0,607.9885883865613
-[22:14:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2125ms behind, skipping 42 tick(s)
-[22:30:22] [Server thread/INFO]: GamerAhsiu lost connection: Disconnected
-[22:30:22] [Server thread/INFO]: GamerAhsiu left the game
-[22:34:42] [Server thread/INFO]: Stopping the server
-[22:34:42] [Server thread/INFO]: Stopping server
-[22:34:42] [Server thread/INFO]: Saving players
-[22:34:42] [Server thread/INFO]: Saving worlds
-[22:34:42] [Server thread/INFO]: Saving chunks for level 'Survivalv2'/overworld
-[22:34:42] [Server thread/INFO]: Saving chunks for level 'Survivalv2'/the_nether
-[22:34:42] [Server thread/INFO]: Saving chunks for level 'Survivalv2'/the_end
-[22:34:43] [Server Shutdown Thread/INFO]: Stopping server
-[22:34:43] [Server Shutdown Thread/INFO]: Saving players
-[22:34:43] [Server Shutdown Thread/INFO]: Happypig375 lost connection: Server closed
-[22:34:43] [Server Shutdown Thread/INFO]: Happypig375 left the game
-[22:34:43] [Server Shutdown Thread/INFO]: Saving worlds
-[22:34:43] [Server Shutdown Thread/INFO]: Saving chunks for level 'Survivalv2'/overworld
-[22:34:43] [Server Shutdown Thread/INFO]: Saving chunks for level 'Survivalv2'/the_nether
-[22:34:43] [Server Shutdown Thread/INFO]: Saving chunks for level 'Survivalv2'/the_end
+[17:24:31] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[17:24:31] [Server thread/INFO]: Loading properties
+[17:24:31] [Server thread/INFO]: Default game type: ADVENTURE
+[17:24:31] [Server thread/INFO]: Generating keypair
+[17:24:31] [Server thread/INFO]: Starting Minecraft server on *:375
+[17:24:31] [Server thread/INFO]: Using default channel type
+[17:24:31] [Server thread/INFO]: Preparing level "Bane of the Pumpkin Lord 1.11 and 1.12"
+[17:24:31] [Server thread/INFO]: Preparing start region for level 0
+[17:24:32] [Server thread/INFO]: Done (0.860s)! For help, type "help" or "?"
+[17:25:47] [User Authenticator #1/INFO]: UUID of player Happypig375 is 1b5d49e1-8ea0-4d62-9e34-765f246c1c80
+[17:25:47] [Server thread/INFO]: Happypig375[/192.168.1.50:61585] logged in with entity id 4 at (-287.5, 32.0, -289.5)
+[17:25:47] [Server thread/INFO]: Happypig375 joined the game
+[17:25:48] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:25:48] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:25:48] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:25:48] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:28:31] [User Authenticator #2/INFO]: UUID of player KooDog is 67b25814-164b-482c-a76b-77b3cda1f6fa
+[17:28:31] [Server thread/INFO]: KooDog[/221.124.81.198:61631] logged in with entity id 84 at (-287.5, 32.0, -289.5)
+[17:28:31] [Server thread/INFO]: KooDog joined the game
+[17:28:36] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:28:36] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:28:53] [Server thread/INFO]: KooDog has just earned the achievement [Taking Inventory]
+[17:29:28] [Server thread/INFO]: Happypig375 has just earned the achievement [Taking Inventory]
+[17:31:25] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:35:53] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:35:53] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:35:53] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:35:53] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:35:53] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:35:53] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:35:53] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:35:53] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:35:53] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:35:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2044ms behind, skipping 40 tick(s)
+[17:37:03] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:37:03] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:37:03] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID dcceec4e-d860-4b22-9304-a872f939da2f
+[17:37:03] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 89dfa7ad-f3ee-4372-960a-d585b69f4ad9
+[17:37:03] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 1651959e-8743-4084-9d7b-60398c8f834d
+[17:37:03] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:37:03] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:37:04] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID 9afdb36d-a053-4f1c-a888-057a6e85c0a2
+[17:37:04] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID dda5ad03-291b-48e7-ba02-275221d53a92
+[17:37:04] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID f39e100c-00c5-40d2-b2df-bb1828460cf5
+[17:37:04] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 88f37ca8-a8e3-47cb-83aa-ac69e8435b01
+[17:37:04] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID b58723fd-a6b8-4849-870e-cbd643abfb58
+[17:37:04] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 8bcc48ed-3063-49f4-8354-900b39981b83
+[17:37:04] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 838463c8-7ab8-4dbb-90d8-7d0918907983
+[17:37:04] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID 8e27a9ae-80c6-4629-8a4f-af009632182a
+[17:37:04] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID fb1be6af-eae7-481c-af7f-d572b5d49831
+[17:37:04] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID e191b1f5-67ff-4e92-872c-66313851c0e6
+[17:37:04] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID b9e7cf93-05f7-4381-822a-5fc5c3ea0ee7
+[17:37:04] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID a4f0efa1-d7e7-4b88-8ddb-3166b46c02f2
+[17:37:15] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:37:15] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 95759589-3e41-44ef-a858-d430695663cc
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 26f7c1a3-2fe2-4a71-9685-3925b17fe6b0
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID b5dca8ad-6844-41b1-8198-5464b120f716
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID f8da5dca-ce49-439d-a3e4-f736b3eef606
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID d519e1f7-91b2-404e-9890-aa21c06a8117
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID c4250e43-7ba7-4714-b119-7790712f68b6
+[17:37:15] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:37:15] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID 1be42078-6450-455b-936a-af64d4e869fc
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID f9661c1f-eb5e-4738-aacb-e3e6a3bd6106
+[17:37:15] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:37:15] [Server thread/WARN]: Skipping BlockEntity with id minecraft:bed
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID afa94393-7198-44f7-9218-e7fe480fc7e3
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID 09960d00-e096-40c3-a906-acf14bafddb6
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID 291a882c-4c27-4815-a299-91d147a123b4
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID 3e18d467-e9cc-47f4-ae96-1260b30f35d2
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID 85a6537a-7e51-4725-84c5-567f934e653d
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 246dadc7-8332-42a9-b559-5206939b9bb1
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID bc74415a-0fae-42c2-a78c-25621806e11a
+[17:37:15] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 80ba154f-7542-4951-b51d-79282db50f91
+[17:40:32] [Server thread/INFO]: <Happypig375> Fire Res, Holy Water, Reinforced Iron Sword, Red Clock, Moonly Pumpkin
+[18:02:26] [Server thread/INFO]: Happypig375 went off with a bang
+[18:12:28] [Server thread/INFO]: Happypig375 was slain by KooDog
+[18:15:57] [Server thread/INFO]: Happypig375 has just earned the achievement [Getting Wood]
+[18:26:39] [Server thread/WARN]: Couldn't process command: 'setblock 1 49 20 minecraft:wall_sign 4 1 {Text2:"Activate Scroll"}'
+[18:26:53] [Server thread/INFO]: Happypig375 fell from a high place
+[18:33:54] [Server thread/INFO]: Happypig375 was slain by Zombie
+[18:34:20] [Server thread/INFO]: KooDog tried to swim in lava
+[18:34:55] [Server thread/INFO]: Happypig375 tried to swim in lava
+[18:35:22] [Server thread/INFO]: KooDog was slain by Zombie
+[18:35:28] [Server thread/INFO]: Happypig375 was slain by Zombie
+[18:35:42] [Server thread/INFO]: Happypig375 was slain by Zombie
+[18:35:44] [Server thread/INFO]: KooDog was slain by Zombie
+[18:36:37] [Server thread/INFO]: Happypig375 was slain by Skeleton
+[18:36:37] [Server thread/INFO]: KooDog was slain by Skeleton
+[18:36:48] [Server thread/INFO]: Happypig375 was slain by Skeleton
+[18:36:57] [Server thread/INFO]: Happypig375 was slain by Skeleton
+[18:37:00] [Server thread/INFO]: KooDog was slain by Skeleton
+[18:37:07] [Server thread/INFO]: Happypig375 was slain by Skeleton
+[18:37:25] [Server thread/INFO]: Happypig375 was slain by Skeleton
+[18:44:11] [Server thread/INFO]: Happypig375 hit the ground too hard
+[18:47:05] [Server thread/WARN]: Skipping Entity with id minecraft:lightningbolt
+[18:47:06] [Server thread/WARN]: Skipping Entity with id minecraft:lightningbolt
+[18:47:06] [Server thread/WARN]: Skipping Entity with id minecraft:pigzombie
+[18:47:06] [Server thread/WARN]: Skipping Entity with id minecraft:lightningbolt
+[18:47:08] [Server thread/WARN]: Skipping Entity with id minecraft:lightningbolt
+[18:49:06] [Server thread/INFO]: Happypig375 was slain by Zombie
+[18:52:52] [Server thread/INFO]: Happypig375 was slain by §6Pumpkin Lord§r
+[18:53:12] [Server thread/INFO]: KooDog was slain by §6Pumpkin Lord§r
+[18:53:17] [Server thread/INFO]: Happypig375 was slain by §6Pumpkin Lord§r
+[18:53:26] [Server thread/INFO]: Happypig375 was slain by §6Pumpkin Lord§r
+[18:53:27] [Server thread/WARN]: Fetching addPacket for removed entity
+[18:54:11] [Server thread/INFO]: KooDog was slain by §6Pumpkin Lord§r
+[18:54:23] [Server thread/INFO]: KooDog was slain by §6Pumpkin Lord§r
+[18:54:51] [Server thread/WARN]: Happypig375 moved wrongly!
+[18:54:57] [Server thread/INFO]: Happypig375 was slain by §6Pumpkin Lord§r
+[18:55:23] [Server thread/INFO]: KooDog was slain by §6Pumpkin Lord§r
+[18:55:27] [Server thread/INFO]: Happypig375 was slain by §6Pumpkin Lord§r
+[18:58:40] [Server thread/INFO]: KooDog lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:58:40] [Server thread/INFO]: KooDog left the game
+[18:58:55] [Server thread/INFO]: Happypig375 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:58:55] [Server thread/INFO]: Happypig375 left the game
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID f8da5dca-ce49-439d-a3e4-f736b3eef606
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 95759589-3e41-44ef-a858-d430695663cc
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 26f7c1a3-2fe2-4a71-9685-3925b17fe6b0
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID d519e1f7-91b2-404e-9890-aa21c06a8117
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID 1be42078-6450-455b-936a-af64d4e869fc
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID bc74415a-0fae-42c2-a78c-25621806e11a
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 246dadc7-8332-42a9-b559-5206939b9bb1
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 80ba154f-7542-4951-b51d-79282db50f91
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID f9661c1f-eb5e-4738-aacb-e3e6a3bd6106
+[18:58:55] [Server thread/ERROR]: Failed to load data for block entity minecraft:sign
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1
+	at com.google.gson.internal.Streams.parse(Streams.java:56) ~[minecraft_server.1.11.2.jar:?]
+	at com.google.gson.TreeTypeAdapter.read(TreeTypeAdapter.java:54) ~[minecraft_server.1.11.2.jar:?]
+	at ok.a(SourceFile:489) ~[minecraft_server.1.11.2.jar:?]
+	at ok.a(SourceFile:500) ~[minecraft_server.1.11.2.jar:?]
+	at fb$a.a(SourceFile:205) ~[minecraft_server.1.11.2.jar:?]
+	at asv.a(SourceFile:111) ~[minecraft_server.1.11.2.jar:?]
+	at asc.a(SourceFile:120) [minecraft_server.1.11.2.jar:?]
+	at avd.a(SourceFile:343) [minecraft_server.1.11.2.jar:?]
+	at avd.a(SourceFile:97) [minecraft_server.1.11.2.jar:?]
+	at avd.a(SourceFile:72) [minecraft_server.1.11.2.jar:?]
+	at lv.f(SourceFile:124) [minecraft_server.1.11.2.jar:?]
+	at lv.b(SourceFile:81) [minecraft_server.1.11.2.jar:?]
+	at lv.c(SourceFile:95) [minecraft_server.1.11.2.jar:?]
+	at ajs.a(SourceFile:299) [minecraft_server.1.11.2.jar:?]
+	at ajs.f(SourceFile:295) [minecraft_server.1.11.2.jar:?]
+	at ajs.o(SourceFile:732) [minecraft_server.1.11.2.jar:?]
+	at wp.f(SourceFile:344) [minecraft_server.1.11.2.jar:?]
+	at wp.m(SourceFile:330) [minecraft_server.1.11.2.jar:?]
+	at wp.a(SourceFile:76) [minecraft_server.1.11.2.jar:?]
+	at wr.a(SourceFile:62) [minecraft_server.1.11.2.jar:?]
+	at lw.d(SourceFile:224) [minecraft_server.1.11.2.jar:?]
+	at net.minecraft.server.MinecraftServer.D(SourceFile:626) [minecraft_server.1.11.2.jar:?]
+	at lh.D(SourceFile:335) [minecraft_server.1.11.2.jar:?]
+	at net.minecraft.server.MinecraftServer.C(SourceFile:562) [minecraft_server.1.11.2.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:466) [minecraft_server.1.11.2.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1505) ~[minecraft_server.1.11.2.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1386) ~[minecraft_server.1.11.2.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:572) ~[minecraft_server.1.11.2.jar:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[minecraft_server.1.11.2.jar:?]
+	at com.google.gson.internal.Streams.parse(Streams.java:42) ~[minecraft_server.1.11.2.jar:?]
+	... 25 more
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID dcceec4e-d860-4b22-9304-a872f939da2f
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID 9afdb36d-a053-4f1c-a888-057a6e85c0a2
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID fb1be6af-eae7-481c-af7f-d572b5d49831
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID 8e27a9ae-80c6-4629-8a4f-af009632182a
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:item_frame that already exists with UUID 8bcc48ed-3063-49f4-8354-900b39981b83
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID b58723fd-a6b8-4849-870e-cbd643abfb58
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID dda5ad03-291b-48e7-ba02-275221d53a92
+[18:58:55] [Server thread/WARN]: Keeping entity minecraft:armor_stand that already exists with UUID f39e100c-00c5-40d2-b2df-bb1828460cf5
+[20:00:01] [Server thread/INFO]: Stopping the server
+[20:00:01] [Server thread/INFO]: Stopping server
+[20:00:01] [Server thread/INFO]: Saving players
+[20:00:01] [Server thread/INFO]: Saving worlds
+[20:00:01] [Server thread/INFO]: Saving chunks for level 'Bane of the Pumpkin Lord 1.11 and 1.12'/Overworld
+[20:00:01] [Server thread/INFO]: Saving chunks for level 'Bane of the Pumpkin Lord 1.11 and 1.12'/Nether
+[20:00:01] [Server thread/INFO]: Saving chunks for level 'Bane of the Pumpkin Lord 1.11 and 1.12'/The End
+[20:00:01] [Server Shutdown Thread/INFO]: Stopping server
+[20:00:01] [Server Shutdown Thread/INFO]: Saving players
+[20:00:01] [Server Shutdown Thread/INFO]: Saving worlds
+[20:00:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'Bane of the Pumpkin Lord 1.11 and 1.12'/Overworld
+[20:00:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'Bane of the Pumpkin Lord 1.11 and 1.12'/Nether
+[20:00:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'Bane of the Pumpkin Lord 1.11 and 1.12'/The End
