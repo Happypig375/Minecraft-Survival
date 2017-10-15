@@ -1,0 +1,169 @@
+{
+    "pools": [
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.06,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "item",
+                    "name": "minecraft:leather_helmet",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{color:4210752,Name:\"§rStone Cap\",Lore:[\"\",\"§7+10% health\"]},HideFlags:63,AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.10,Operation:1,UUIDMost:22245,UUIDLeast:137656,Slot:head}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.06,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "item",
+                    "name": "minecraft:chainmail_chestplate",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rChain Chestplate\",Lore:[\"\",\"§7+20% health\"]},HideFlags:63,AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.20,Operation:1,UUIDMost:26434,UUIDLeast:197326,Slot:chest}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.06,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+			 "entries": [	
+				{
+                    "type": "item",
+                    "name": "minecraft:leather_leggings",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{color:4210752,Name:\"§rStone Leggings\",Lore:[\"\",\"§7+15% health\"]},HideFlags:63,AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.15,Operation:1,UUIDMost:28244,UUIDLeast:139352,Slot:legs}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+			]	
+		},	
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.06,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+			"entries": [
+			{
+                    "type": "item",
+                    "name": "minecraft:chainmail_boots",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rChain Boots\",Lore:[\"\",\"§7+10% health\"]},HideFlags:63,AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.10,Operation:1,UUIDMost:29433,UUIDLeast:164351,Slot:feet}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+			]	
+		},
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.06,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+			"entries": [
+			{
+                    "type": "item",
+                    "name": "minecraft:bow",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rBow\",Lore:[\"\",\"§7When charged up:\",\"§7 9 Ranged Damage\",\"§7Infinity\"]},HideFlags:63,ench:[{id:51,lvl:1}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+			]	
+		}
+    ]
+}

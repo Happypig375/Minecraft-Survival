@@ -1,0 +1,137 @@
+{
+    "pools": [
+        {
+			"rolls": {
+				"min": 5,
+				"max": 5
+			},
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:cooked_beef",
+					"weight": 3,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 5
+								}
+							}
+						]	
+					},
+				{
+					"type": "item",
+					"name": "minecraft:experience_bottle",
+					"weight": 2,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 8,
+								"max": 12
+								}
+							}
+						]	
+					},
+				{
+					"type": "empty",
+					"weight": 1
+					}
+			]
+		},
+		{
+            "rolls": {
+                "min": 2,
+                "max": 2
+            },
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "aos:equipment/ice_blade",
+                    "weight": 4
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/axe_of_the_cold_night",
+                    "weight": 4
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/bow_and_icicles",
+                    "weight": 4
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/ice_spike_shield",
+                    "weight": 4
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/frozen_skull",
+                    "weight": 6
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/sheet_chainmail",
+                    "weight": 6
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/icicle_greaves",
+                    "weight": 6
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/permafrosted_boots",
+                    "weight": 6
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/frostbiting_glaive",
+                    "weight": 4
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/blizzard_broadsword",
+                    "weight": 4
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/severing_launcher",
+                    "weight": 4
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/shield_of_the_glacial_elite",
+                    "weight": 4
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/spike_headgear",
+                    "weight": 6
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/glacial_bodywear",
+                    "weight": 6
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/frostbitten_pants",
+                    "weight": 6
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/cleated_boots",
+                    "weight": 6
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/late/random_potion",
+                    "weight": 40
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "pools": [
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.05,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/spike_headgear",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.05,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/damaged/sheet_chainmail",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.05,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/damaged/icicle_greaves",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.05,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/damaged/permafrosted_boots",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.05,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/damaged/ice_blade",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.05,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/damaged/ice_spike_shield",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

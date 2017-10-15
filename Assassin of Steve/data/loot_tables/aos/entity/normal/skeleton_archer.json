@@ -1,0 +1,104 @@
+{
+    "pools": [
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.04,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/damaged/pilot_helmet",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.04,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/damaged/chain_chestplate",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.04,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/damaged/camo_pants",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.04,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/damaged/chain_boots",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.04,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/damaged/soldier_repeater",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

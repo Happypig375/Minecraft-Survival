@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:leather_boots",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rLeather Boots\",Lore:[\"\",\"§7+5% health\",\"§7Unbreaking\"]},HideFlags:63,ench:[{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.05,Operation:1,UUIDMost:29433,UUIDLeast:164351,Slot:feet}]}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

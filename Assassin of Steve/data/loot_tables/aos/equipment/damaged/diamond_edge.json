@@ -1,0 +1,27 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§6Diamond Edge\",Lore:[\"§6§oThis name sounds cooler\",\"\",\"§712 Attack Damage\",\"§71.6 Attack Speed\",\"§7Unbreaking\",\"§6Part of Jewel Equipment\"]},HideFlags:63,ench:[{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.attackDamage,Name:;generic.attackDamage,Amount:11,Operation:0,UUIDMost:21461,UUIDLeast:272516,Slot:mainhand},{AttributeName:generic.attackSpeed,Name:;generic.attackSpeed,Amount:-2.4,Operation:0,UUIDMost:22516,UUIDLeast:101536,Slot:mainhand}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

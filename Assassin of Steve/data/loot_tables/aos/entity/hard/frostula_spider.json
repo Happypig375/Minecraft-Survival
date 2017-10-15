@@ -1,0 +1,24 @@
+{
+    "pools": [
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.05,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/damaged/frostula_fang",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

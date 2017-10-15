@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:leather_leggings",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{color:7047881,Name:\"§3Frostbitten Pants\",Lore:[\"§3§oDon't go in a blizzard with it!\",\"\",\"§7+65% health\",\"§7Protection III\",\"§7Projectile Protection II\",\"§7Unbreakable\",\"§3Part of Glacial Equipment\"]},Unbreakable:1,HideFlags:63,ench:[{id:0,lvl:3},{id:4,lvl:2},{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.65,Operation:1,UUIDMost:28244,UUIDLeast:139352,Slot:legs}]}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

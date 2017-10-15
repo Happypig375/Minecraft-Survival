@@ -1,0 +1,37 @@
+{
+    "pools": [
+        {
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/early/splash_healing",
+                    "weight": 1
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/early/splash_decay",
+                    "weight": 1
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/early/regeneration_potion",
+                    "weight": 1
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/early/strength_potion",
+                    "weight": 1
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/early/absorption_potion",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

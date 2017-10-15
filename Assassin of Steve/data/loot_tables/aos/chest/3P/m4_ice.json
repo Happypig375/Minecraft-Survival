@@ -1,0 +1,97 @@
+{
+    "pools": [
+        {
+			"rolls": {
+				"min": 6,
+				"max": 6
+			},
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:cooked_beef",
+					"weight": 4,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 5
+								}
+							}
+						]	
+					},
+				{
+					"type": "item",
+					"name": "minecraft:experience_bottle",
+					"weight": 3,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 8,
+								"max": 12
+								}
+							}
+						]	
+					},
+				{
+					"type": "empty",
+					"weight": 2
+					}
+			]
+		},
+		{
+            "rolls": {
+                "min": 3,
+                "max": 3
+            },
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "aos:equipment/polar_bear_fang",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/ice_axe",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/eskibow",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/bearskin_shield",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/arctic_hood",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/polar_bear_hide",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/snow_legplates",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/inuit_footwear",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/early/random_potion",
+                    "weight": 20
+                }
+            ]
+        }
+    ]
+}

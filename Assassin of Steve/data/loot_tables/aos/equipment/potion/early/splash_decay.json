@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:splash_potion",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rSplash Decay\",Lore:[\"\",\"§7When applied:\",\"§7 Up to 30 Magic Damage over a period of up to 15 seconds\"]},HideFlags:63,CustomPotionEffects:[{Id:20,Amplifier:1,Duration:300}]}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

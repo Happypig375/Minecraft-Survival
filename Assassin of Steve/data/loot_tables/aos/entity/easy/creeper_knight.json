@@ -1,0 +1,182 @@
+{
+    "pools": [
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 1,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "item",
+                    "name": "minecraft:cooked_beef",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 10,
+								"max": 18
+							}
+						}
+                    ]
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 1,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "item",
+                    "name": "minecraft:experience_bottle",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 25,
+								"max": 40
+							}
+						}
+                    ]
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 1,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+			"entries": [
+			{
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/late/random_potion",
+                    "weight": 1
+                }
+			]	
+		},
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.19,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/glacial_bodywear",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.19,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/frostbitten_pants",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.19,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/cleated_boots",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.19,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/frostbiting_glaive",
+                    "weight": 1
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.19,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/shield_of_the_glacial_elite",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

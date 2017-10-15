@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:golden_boots",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§4Magma Waders\",Lore:[\"§4§oThey're not actually very effective\",\"\",\"§7+70% health\",\"§7Protection IV\",\"§7Fire Protection III\",\"§7Unbreakable\",\"§4Part of Nether Equipment\"]},Unbreakable:1,HideFlags:63,ench:[{id:0,lvl:4},{id:1,lvl:3},{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.7,Operation:1,UUIDMost:29433,UUIDLeast:164351,Slot:feet}]}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

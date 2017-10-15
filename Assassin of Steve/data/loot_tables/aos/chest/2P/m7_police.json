@@ -1,0 +1,97 @@
+{
+    "pools": [
+        {
+			"rolls": {
+				"min": 6,
+				"max": 6
+			},
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:cooked_beef",
+					"weight": 4,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 5
+								}
+							}
+						]	
+					},
+				{
+					"type": "item",
+					"name": "minecraft:experience_bottle",
+					"weight": 3,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 8,
+								"max": 12
+								}
+							}
+						]	
+					},
+				{
+					"type": "empty",
+					"weight": 2
+					}
+			]
+		},
+		{
+            "rolls": {
+                "min": 3,
+                "max": 3
+            },
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "aos:equipment/electric_stick",
+                    "weight": 4
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/tactical_shotbow",
+                    "weight": 4
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/flare_bow",
+                    "weight": 4
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/riot_shield",
+                    "weight": 4
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/blue_kevlar_helmet",
+                    "weight": 6
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/bulletproof_vest",
+                    "weight": 6
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/holstered_leggings",
+                    "weight": 6
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/police_shoes",
+                    "weight": 6
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/mid/random_potion",
+                    "weight": 40
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:potion",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rStrength Potion\",Lore:[\"\",\"§7When consumed:\",\"§7 +3 Attack Damage for two minutes\"]},HideFlags:63,CustomPotionEffects:[{Id:5,Amplifier:0,Duration:2400}]}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "pools": [
+        {
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.15,
+					"looting_multiplier": 0
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "item",
+                    "name": "minecraft:fermented_spider_eye",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 1
+							}
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"Cold Eye\",Lore:[\"Trade with the trapped villager to get a jump boost potion\"]}}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

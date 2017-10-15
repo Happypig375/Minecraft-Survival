@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:splash_potion",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rSplash Healing\",Lore:[\"\",\"§7When applied on living entities:\",\"§7 Up to 16 Healing\",\"§7When applied on undead entities:\",\"§7 Up to 24 Magic Damage\"]},HideFlags:63,CustomPotionEffects:[{Id:6,Amplifier:2}]}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

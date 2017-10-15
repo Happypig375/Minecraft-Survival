@@ -1,0 +1,27 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:bow",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§6Jewel Bow\",Lore:[\"§6§oSnipe in style!\",\"\",\"§7When charged up:\",\"§7 22.5 Ranged Damage\",\"§7Infinity\",\"§7Unbreaking\",\"§6Part of Jewel Equipment\"]},HideFlags:63,ench:[{id:48,lvl:5},{id:51,lvl:1},{id:34,lvl:10}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

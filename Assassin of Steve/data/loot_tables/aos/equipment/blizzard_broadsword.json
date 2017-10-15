@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§3Blizzard Broadsword\",Lore:[\"§3§oSwing it through the air to release a chilly wind\",\"\",\"§718 Attack Damage\",\"§71.6 Attack Speed\",\"§7Knockback I\",\"§7Unbreakable\",\"§3Part of Glacial Equipment\"]},Unbreakable:1,HideFlags:63,ench:[{id:34,lvl:10},{id:16,lvl:1},{id:19,lvl:1}],AttributeModifiers:[{AttributeName:generic.attackDamage,Name:;generic.attackDamage,Amount:16,Operation:0,UUIDMost:21461,UUIDLeast:272516,Slot:mainhand},{AttributeName:generic.attackSpeed,Name:;generic.attackSpeed,Amount:-2.4,Operation:0,UUIDMost:22516,UUIDLeast:101536,Slot:mainhand}]}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:bow",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§1Tactical Shotbow\",Lore:[\"§1§oThis is your special weapon. Now you just need tactics\",\"\",\"§7When charged up:\",\"§7 24.75 Ranged Damage\",\"§7Infinity\",\"§7Unbreaking\",\"§1Part of Police Equipment\"]},HideFlags:63,ench:[{id:48,lvl:6},{id:51,lvl:1},{id:34,lvl:10}]}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

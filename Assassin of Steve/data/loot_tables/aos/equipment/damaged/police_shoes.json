@@ -1,0 +1,27 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_boots",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§1Police Shoes\",Lore:[\"§1§oRemember, this police rhymes with 'ice'\",\"\",\"§7+30% health\",\"§7Protection II\",\"§7Fire Protection I\",\"§7Unbreaking\",\"§1Part of Police Equipment\"]},HideFlags:63,ench:[{id:0,lvl:2},{id:1,lvl:1},{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.3,Operation:1,UUIDMost:29433,UUIDLeast:164351,Slot:feet}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

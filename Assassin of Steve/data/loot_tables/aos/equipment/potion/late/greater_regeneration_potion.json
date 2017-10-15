@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:potion",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rGreater Regeneration Potion\",Lore:[\"\",\"§7When consumed:\",\"§7 80 Healing over a period of 12 seconds\",\"§7 +40 Absorption Health for three minutes\"]},HideFlags:63,CustomPotionEffects:[{Id:10,Amplifier:4,Duration:240},{Id:22,Amplifier:9,Duration:3600}]}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_pickaxe",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§6Diamond Pick\",Lore:[\"§6§oKnocks your enemies away as you mine\",\"\",\"§720 Attack Damage\",\"§70.9 Attack Speed\",\"§7Can be used to break Frosted Ice\",\"§7Knockback I\",\"§7Unbreaking\",\"§6Part of Jewel Equipment\"]},HideFlags:63,ench:[{id:34,lvl:10},{id:19,lvl:1}],CanDestroy:[\"minecraft:frosted_ice\"],AttributeModifiers:[{AttributeName:generic.attackDamage,Name:;generic.attackDamage,Amount:19,Operation:0,UUIDMost:21461,UUIDLeast:272516,Slot:mainhand},{AttributeName:generic.attackSpeed,Name:;generic.attackSpeed,Amount:-3.1,Operation:0,UUIDMost:22516,UUIDLeast:101536,Slot:mainhand}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

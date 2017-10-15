@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:shield",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§3Shield of the Glacial Elite\",Lore:[\"§3§oThis shield is only used by Glacial Elite\",\"§3§oAnd those who steal it from them\",\"\",\"§7+60% health\",\"§7+40% Knockback Resistance\",\"§7Unbreakable\",\"§3Part of Glacial Equipment\"]},Unbreakable:1,HideFlags:63,ench:[{id:34,lvl:10}],BlockEntityTag:{Base:12,Patterns:[{Pattern:cbo,Color:8},{Pattern:flo,Color:15},{Pattern:mr,Color:15},{Pattern:mc,Color:4}]},AttributeModifiers:[{AttributeName:generic.knockbackResistance,Name:;generic.knockbackResistance,Amount:0.4,Operation:0,UUIDMost:20543,UUIDLeast:142321,Slot:offhand},{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.6,Operation:1,UUIDMost:35352,UUIDLeast:123553,Slot:offhand}]}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

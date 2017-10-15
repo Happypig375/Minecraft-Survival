@@ -1,0 +1,100 @@
+{
+    "pools": [
+        {
+			"rolls": {
+                "min": 4,
+                "max": 4
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:cooked_beef",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 9,
+								"max": 11
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+            "rolls": {
+                "min": 7,
+                "max": 8
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:stone_axe",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rStone Axe\",Lore:[\"\",\"§79 Attack Damage\",\"§70.8 Attack Speed\",\"§7Unbreaking\"]},HideFlags:63,ench:[{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.attackDamage,Name:;generic.attackDamage,Amount:8,Operation:0,UUIDMost:21461,UUIDLeast:272516,Slot:mainhand},{AttributeName:generic.attackSpeed,Name:;generic.attackSpeed,Amount:-3.2,Operation:0,UUIDMost:22516,UUIDLeast:101536,Slot:mainhand}]}"
+						}
+					]
+				},
+                {
+                    "type": "item",
+                    "name": "minecraft:leather_helmet",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rLeather Cap\",Lore:[\"\",\"§7+5% health\",\"§7Unbreaking\"]},HideFlags:63,ench:[{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.05,Operation:1,UUIDMost:29154,UUIDLeast:135321,Slot:head}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:leather_chestplate",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rLeather Tunic\",Lore:[\"\",\"§7+15% health\",\"§7Unbreaking\"]},HideFlags:63,ench:[{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.15,Operation:1,UUIDMost:26434,UUIDLeast:197326,Slot:chest}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:leather_leggings",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rLeather Pants\",Lore:[\"\",\"§7+10% health\",\"§7Unbreaking\"]},HideFlags:63,ench:[{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.1,Operation:1,UUIDMost:28244,UUIDLeast:139352,Slot:legs}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:leather_boots",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rLeather Boots\",Lore:[\"\",\"§7+5% health\",\"§7Unbreaking\"]},HideFlags:63,ench:[{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.05,Operation:1,UUIDMost:29433,UUIDLeast:164351,Slot:feet}]}"
+						}
+                    ]
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:stone_sword",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rStone Sword\",Lore:[\"\",\"§75 Attack Damage\",\"§71.6 Attack Speed\",\"§7Unbreaking\"]},HideFlags:63,ench:[{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.attackDamage,Name:;generic.attackDamage,Amount:4,Operation:0,UUIDMost:21461,UUIDLeast:272516,Slot:mainhand},{AttributeName:generic.attackSpeed,Name:;generic.attackSpeed,Amount:-2.4,Operation:0,UUIDMost:22516,UUIDLeast:101536,Slot:mainhand}]}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

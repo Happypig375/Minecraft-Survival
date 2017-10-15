@@ -1,0 +1,87 @@
+{
+    "pools": [
+		{
+			"rolls": {
+                "min": 4,
+                "max": 4
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:cooked_beef",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 9,
+								"max": 11
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": {
+                "min": 9,
+                "max": 10
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/frostula_fang",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/ice_pick",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/snow_launcher",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/packed_puncher",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/headlamped_helmet",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/miner_overalls",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/rough_pants",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/frost_walkers",
+                    "weight": 3
+                }
+            ]
+        },
+		{
+			"rolls": {
+                "min": 3,
+                "max": 4
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/mid/random_potion",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

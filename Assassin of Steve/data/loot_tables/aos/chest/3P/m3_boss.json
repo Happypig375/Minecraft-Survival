@@ -1,0 +1,127 @@
+{
+    "pools": [
+		{
+			"rolls": {
+                "min": 4,
+                "max": 4
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:cooked_beef",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 7,
+								"max": 9
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": {
+                "min": 6,
+                "max": 6
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/metal_saw_blade",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/metal_hatchet",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/cavalry_rifle",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/iron_sheet",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/pilot_helmet",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/arrowproof_vest",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/camo_pants",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/muddy_boots",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/polar_bear_fang",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/ice_axe",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/eskibow",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/bearskin_shield",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/arctic_hood",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/polar_bear_hide",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/snow_legplates",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/inuit_footwear",
+                    "weight": 3
+                }
+            ]
+        },
+		{
+			"rolls": {
+                "min": 2,
+                "max": 2
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/early/random_potion",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

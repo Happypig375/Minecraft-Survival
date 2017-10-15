@@ -1,0 +1,27 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:bow",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§bBow and Icicles\",Lore:[\"§b§oShoots icicles, not arrows\",\"\",\"§7When charged up:\",\"§7 27 Ranged Damage\",\"§7Infinity\",\"§7Unbreaking\",\"§bPart of Icicle Equipment\"]},HideFlags:63,ench:[{id:48,lvl:7},{id:51,lvl:1},{id:34,lvl:10}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

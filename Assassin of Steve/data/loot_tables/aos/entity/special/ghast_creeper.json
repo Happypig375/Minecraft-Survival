@@ -1,0 +1,76 @@
+{
+    "pools": [
+        {
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.33,
+					"looting_multiplier": 1
+                },
+                {
+                    "condition": "killed_by_player"
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "item",
+                    "name": "minecraft:glowstone_dust",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 1
+							}
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"Possessed Powder\"},ench:[{id:34,lvl:1}],HideFlags:63}"
+						}
+                    ]
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.33,
+					"looting_multiplier": 1
+                },
+                {
+                    "condition": "killed_by_player"
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "item",
+                    "name": "minecraft:glowstone_dust",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 1
+							}
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"Possessed Powder\"},ench:[{id:34,lvl:1}],HideFlags:63}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

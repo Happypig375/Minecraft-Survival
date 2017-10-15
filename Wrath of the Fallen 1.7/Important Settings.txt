@@ -1,0 +1,20 @@
+#########################
+Important Server Settings
+#########################
+If you miss any of these settings, it will bug.
+
+DO NOT USE BUKKIT
+allow-flight=true
+spawn-animals=true
+enable-command-block=true
+view-distance=15
+spawn-npcs=true
+#########################
+
+
+If you want to play this map with friends, you can hop on my server!
+The ip is mc.hypixel.net
+
+For more information about this map please visit my website http://hypixel.net/
+
+Thank you for your support.

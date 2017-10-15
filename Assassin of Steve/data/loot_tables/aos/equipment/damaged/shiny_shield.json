@@ -1,0 +1,27 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:shield",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§6Shiny Shield\",Lore:[\"§6§oBlock attacks in style!\",\"\",\"§7+25% health\",\"§7+25% Knockback Resistance\",\"§7Unbreaking\",\"§6Part of Jewel Equipment\"]},HideFlags:63,ench:[{id:34,lvl:10}],BlockEntityTag:{Base:15,Patterns:[{Pattern:mr,Color:13},{Pattern:cbo,Color:13},{Pattern:bri,Color:12}]},AttributeModifiers:[{AttributeName:generic.knockbackResistance,Name:;generic.knockbackResistance,Amount:0.25,Operation:0,UUIDMost:20543,UUIDLeast:142321,Slot:offhand},{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.25,Operation:1,UUIDMost:35352,UUIDLeast:123553,Slot:offhand}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

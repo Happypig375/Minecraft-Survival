@@ -1,0 +1,87 @@
+{
+    "pools": [
+		{
+			"rolls": {
+                "min": 4,
+                "max": 4
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:cooked_beef",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 9,
+								"max": 11
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": {
+                "min": 10,
+                "max": 10
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/ice_blade",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/axe_of_the_cold_night",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/bow_and_icicles",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/ice_spike_shield",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/frozen_skull",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/sheet_chainmail",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/icicle_greaves",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/permafrosted_boots",
+                    "weight": 3
+                }
+            ]
+        },
+		{
+			"rolls": {
+                "min": 5,
+                "max": 5
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/late/random_potion",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

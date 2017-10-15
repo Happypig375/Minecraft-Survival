@@ -1,0 +1,27 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_leggings",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§9Snow Legplates\",Lore:[\"§9§oAfter a few minutes' use they'll fall off\",\"\",\"§7+25% health\",\"§7Protection I\",\"§7Unbreaking\",\"§9Part of Polar Equipment\"]},HideFlags:63,ench:[{id:0,lvl:1},{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.25,Operation:1,UUIDMost:28244,UUIDLeast:139352,Slot:legs}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

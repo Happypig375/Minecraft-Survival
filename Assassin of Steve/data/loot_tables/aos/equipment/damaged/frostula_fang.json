@@ -1,0 +1,27 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_sword",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§eFrostula Fang\",Lore:[\"§e§oThe fang from... don't make me tell you!\",\"\",\"§710 Attack Damage\",\"§71.6 Attack Speed\",\"§7Bane of Arthropods II\",\"§7Unbreaking\",\"§ePart of Miner Equipment\"]},HideFlags:63,ench:[{id:18,lvl:2},{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.attackDamage,Name:;generic.attackDamage,Amount:9,Operation:0,UUIDMost:21461,UUIDLeast:272516,Slot:mainhand},{AttributeName:generic.attackSpeed,Name:;generic.attackSpeed,Amount:-2.4,Operation:0,UUIDMost:22516,UUIDLeast:101536,Slot:mainhand}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

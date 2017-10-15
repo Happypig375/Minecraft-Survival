@@ -1,0 +1,87 @@
+{
+    "pools": [
+		{
+			"rolls": {
+                "min": 4,
+                "max": 4
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:cooked_beef",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 3,
+								"max": 5
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": {
+                "min": 4,
+                "max": 4
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/frostbiting_glaive",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/blizzard_broadsword",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/severing_launcher",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/shield_of_the_glacial_elite",
+                    "weight": 2
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/spike_headgear",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/glacial_bodywear",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/frostbitten_pants",
+                    "weight": 3
+                },
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/cleated_boots",
+                    "weight": 3
+                }
+            ]
+        },
+		{
+			"rolls": {
+                "min": 2,
+                "max": 2
+            },
+            "entries": [
+				{
+                    "type": "loot_table",
+                    "name": "aos:equipment/potion/late/random_potion",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

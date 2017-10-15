@@ -1,0 +1,136 @@
+{
+    "pools": [
+        {
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.04,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "item",
+                    "name": "minecraft:leather_chestplate",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{color:5190175,Name:\"§rWooden Tunic\",Lore:[\"\",\"§7+15% health\"]},HideFlags:63,AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.15,Operation:1,UUIDMost:26434,UUIDLeast:197326,Slot:chest}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+            ]
+        },
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.04,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+			 "entries": [	
+				{
+                    "type": "item",
+                    "name": "minecraft:leather_leggings",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{color:5190175,Name:\"§rWooden Leggings\",Lore:[\"\",\"§7+10% health\"]},HideFlags:63,AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.1,Operation:1,UUIDMost:28244,UUIDLeast:139352,Slot:legs}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+			]	
+		},	
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.04,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+			"entries": [
+			{
+                    "type": "item",
+                    "name": "minecraft:leather_boots",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{color:5190175,Name:\"§rWooden Boots\",Lore:[\"\",\"§7+5% health\"]},HideFlags:63,AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.05,Operation:1,UUIDMost:29433,UUIDLeast:164351,Slot:feet}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+			]	
+		},
+		{
+			"conditions": [
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.04,
+					"looting_multiplier": 0.01
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+			"entries": [
+			{
+                    "type": "item",
+                    "name": "minecraft:wooden_sword",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§rSwift Wooden Sword\",Lore:[\"\",\"§74 Attack Damage\",\"§71.8 Attack Speed\"]},HideFlags:63,AttributeModifiers:[{AttributeName:generic.attackDamage,Name:;generic.attackDamage,Amount:3,Operation:0,UUIDMost:21461,UUIDLeast:272516,Slot:mainhand},{AttributeName:generic.attackSpeed,Name:;generic.attackSpeed,Amount:-2.2,Operation:0,UUIDMost:22516,UUIDLeast:101536,Slot:mainhand}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+			]	
+		}
+    ]
+}

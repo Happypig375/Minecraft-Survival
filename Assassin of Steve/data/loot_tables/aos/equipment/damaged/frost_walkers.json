@@ -1,0 +1,27 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_boots",
+                    "weight": 1,
+                    "functions": [
+						{
+							"function": "set_nbt",
+							"tag": "{display:{Name:\"§eFrost Walkers\",Lore:[\"§e§oA treasure that can be worn\",\"\",\"§7+25% health\",\"§7Protection II\",\"§7Frost Walker I\",\"§7Unbreaking\",\"§ePart of Miner Equipment\"]},HideFlags:63,ench:[{id:0,lvl:2},{id:9,lvl:1},{id:34,lvl:10}],AttributeModifiers:[{AttributeName:generic.maxHealth,Name:;generic.maxHealth,Amount:0.25,Operation:1,UUIDMost:29433,UUIDLeast:164351,Slot:feet}]}"
+						},
+						{
+							"function": "set_damage",
+							"damage": {
+								"min": 0.33,
+								"max": 0.66
+							}
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

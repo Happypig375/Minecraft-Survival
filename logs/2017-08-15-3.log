@@ -1,0 +1,14 @@
+[17:36:31] [Server thread/INFO]: Starting minecraft server version 1.12
+[17:36:31] [Server thread/INFO]: Loading properties
+[17:36:31] [Server thread/INFO]: Default game type: ADVENTURE
+[17:36:31] [Server thread/INFO]: Generating keypair
+[17:36:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:36:31] [Server thread/INFO]: Using default channel type
+[17:36:32] [Server thread/INFO]: Preparing level "Temples Of Legends v1.3"
+[17:36:32] [Server thread/INFO]: Loaded 488 advancements
+[17:36:32] [Server thread/INFO]: Preparing start region for level 0
+[17:36:33] [Server thread/INFO]: Preparing spawn area: 21%
+[17:36:34] [Server thread/INFO]: Preparing spawn area: 74%
+[17:36:34] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 53e55c9e-09a5-42f7-a824-e9651e6f8e51
+[17:36:34] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 53e55c9e-09a5-42f7-a824-e9651e6f8e51
+[17:36:35] [Server thread/INFO]: Done (2.950s)! For help, type "help" or "?"
